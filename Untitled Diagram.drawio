@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T20:00:58.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="2yiQLufjiagYjmEjY9G0" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-08T12:25:32.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="bzU970cnjobQ0Mgt6OeA" version="16.5.3" type="github" pages="4">
   <diagram id="4104xiIZpdu3NybZQIfX" name="Ziyookline">
     <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1266,7 +1266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xxk0VbM_lMsVlyy07rCW-205" value="Table Time" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="760" width="180" height="280" as="geometry" />
+          <mxGeometry x="150" y="760" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="xxk0VbM_lMsVlyy07rCW-206" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="xxk0VbM_lMsVlyy07rCW-205" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
