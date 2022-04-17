@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T10:27:58.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Tb3MTI6uM6hEb37nYeoy" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T10:39:19.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="qbUCh0azErzZ6hz7Y5Ad" version="17.4.5" type="github">
   <diagram id="eBxKmAKdKHCCwWOAMzoQ" name="Page-1">
-    <mxGraphModel dx="483" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-2" value="Вилоят рўйхати – ref_region" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-2" value="Viloyat roʼyxati – ref_region" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-2">
@@ -59,7 +59,7 @@
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-17" value="Туманлар рўйхати – ref_district" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-17" value="Tumanlar roʼyxati– ref_district" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="210" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-17">
@@ -127,7 +127,7 @@
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-36" value="Ташкилот тури ҳақидаги &#xa;маълумотлар - ref_org_types (статик)" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-36" value="Tashkilot turi haqidagi&#xa;maʼlumotlar - ref_org_types (статик)" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="420" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-36">
@@ -182,7 +182,7 @@
             <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-52" value="Ташкилотлар ҳақидаги &#xa;маълумотлар - ref_organization" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-52" value="Tashkilotlar haqidagi&#xa;maʼlumotlar - ref_organization" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="210" height="600" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-52">
@@ -419,11 +419,11 @@
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-110" value="Қуриладиган уйларнинг турлари&#xa; ҳақидаги маълумотлар – &#xa;s01construction_object_type" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="40" width="240" height="170" as="geometry" />
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-110" value="Obʼektlarni qurish uchun&#xa;bajariladigan ish turlarihaqidagi &#xa;maʼlumotlar–s01construction_object_type" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-111" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-110">
-          <mxGeometry y="50" width="240" height="30" as="geometry" />
+          <mxGeometry y="50" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-112" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-111">
           <mxGeometry width="30" height="30" as="geometry">
@@ -431,12 +431,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-113" value="UniqueID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-111">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-114" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-110">
-          <mxGeometry y="80" width="240" height="30" as="geometry" />
+          <mxGeometry y="80" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-115" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-114">
           <mxGeometry width="30" height="30" as="geometry">
@@ -444,12 +444,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-116" value="name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-114">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-117" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-110">
-          <mxGeometry y="110" width="240" height="30" as="geometry" />
+          <mxGeometry y="110" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-118" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-117">
           <mxGeometry width="30" height="30" as="geometry">
@@ -457,12 +457,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-119" value="flat_count" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-117">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-120" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-110">
-          <mxGeometry y="140" width="240" height="30" as="geometry" />
+          <mxGeometry y="140" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-121" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-120">
           <mxGeometry width="30" height="30" as="geometry">
@@ -470,11 +470,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-122" value="flour" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-120">
-          <mxGeometry x="30" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-123" value="Иш ҳажмларининг ўлчов &#xa;бирликлари тўғрисидаги &#xa;маьлумотлар-s01unit_measure" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-123" value="Ish hajmlarining oʼlchov&#xa;birliklari toʼgʼrisidagi&#xa;ma&#39;lumotlar-s01unit_measure" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-124" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-123">
@@ -503,8 +503,8 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-136" value="Материал рухсат хатини қайси &#xa;бандида курсатилади &#xa;–s01material_band" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="380" width="220" height="120" as="geometry">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-136" value="Material ruxsat xatini qaysibandida &#xa;ko&#39;rsatiladi –s01material_band" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="380" width="220" height="110" as="geometry">
             <mxRectangle x="610" y="380" width="220" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -534,8 +534,8 @@
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-149" value="Қурилишда ишлатиладиган &#xa;материаллар ҳақидаги &#xa;маьлумотлар-s01materials" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="510" width="210" height="210" as="geometry" />
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-149" value="Qurilishda ishlatiladigan&#xa;materiallar haqidagi&#xa;ma`lumotlar-s01materials" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="510" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-150" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-149">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
@@ -602,7 +602,7 @@
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-165" value="Объектларни қуриш учун &#xa;бажариладиган иш турлари &#xa;ҳақидаги маълумотлар – s01work_type" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-165" value="Obʼektlarni qurish uchun&#xa;bajariladigan ish turlarihaqidagi &#xa;maʼlumotlar – s01work_type" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="40" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-166" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-165">
@@ -644,7 +644,7 @@
             <mxRectangle width="210" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-178" value="Арзон уйларни лойиҳалаш ва &#xa;қуришда ишчи лойиҳа, инженерлик-тадқиқот,&#xa; экспертиза ва назорат ишлари (буюртмачи&#xa; харажатлари) рўйхати – S01Works" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-178" value="Аrzon uylarni loyihalash va&#xa;qurishda ishchi loyiha, injenerlik-tadqiqot,&#xa; ekspertiza va nazorat ishlari (buyurtmachi &#xa;xarajatlari) roʼyxati – S01Works" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="225" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-179" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-178">
@@ -686,8 +686,8 @@
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-191" value="Энг кам ойлик иш &#xa;ҳақи миқдорлари  – s01minimal_salary" style="shape=table;startSize=35;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="405" width="250" height="165" as="geometry" />
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-191" value="Eng kam oylik ishhaqi miqdorlari&#xa;  – s01minimal_salary" style="shape=table;startSize=35;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="405" width="250" height="155" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-192" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-191">
           <mxGeometry y="35" width="250" height="30" as="geometry" />
@@ -741,7 +741,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-204" value="Қишлоқ жойларида арзон уйларни &#xa;лойиҳалаш ва қуришда ишчи лойиҳа,&#xa; инженерлик-тадқиқот, экспертиза&#xa; ва назорат ишлари (буюртмачи &#xa;харажатлари) бажариш нархлари – S01WorkTypeSalary" style="shape=table;startSize=90;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-204" value="Qishloq joylarida arzon uylarni&#xa;loyihalash va qurishda ishchi loyiha,&#xa; injenerlik-tadqiqot, ekspertiza&#xa; va nazorat ishlari (buyurtmachixarajatlari) &#xa;bajarish narxlari – S01WorkTypeSalary" style="shape=table;startSize=90;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="590" width="340" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-205" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-204">
@@ -796,7 +796,7 @@
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-217" value="Кредит маблаглари &#xa;манбаалари– s01kredit_resourse" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-217" value="Kredit mablaglarimanbalari– &#xa;s01kredit_resourse" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="830" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-218" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-217">
@@ -838,7 +838,7 @@
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-230" value="ҚҚИ томонидан қуриладиган&#xa; уйларнинг бериладиган &#xa;аҳоли қатлами руйхати&#xa; – s01pupulation_segment" style="shape=table;startSize=70;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-230" value="QQI tomonidan quriladigan&#xa; uylarning beriladigan&#xa;aholi qatlami ruyxati – &#xa;s01pupulation_segment" style="shape=table;startSize=70;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="990" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-231" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-230">
@@ -880,7 +880,7 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-247" value="Қурилиш обйекти бойича&#xa; хужжатларнинг турлари &#xa;ҳақида маьлумотлар&#xa;- s01doc_type (statik)" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-247" value="Qurilish obyekti boyicha&#xa; xujjatlarning turlari&#xa;haqida ma`lumotlar- &#xa;s01doc_type (statik)" style="shape=table;startSize=60;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="40" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-248" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-247">
@@ -922,7 +922,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-260" value="Aдреска статуси-&#xa;s01address_status(static)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-260" value="Adreska statusi-&#xa;s01address_status(static)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="235" width="180" height="95" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-261" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-260">
@@ -951,7 +951,7 @@
             <mxRectangle width="150.99999999999977" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-273" value="Aдреска тури- &#xa;s01address_type(static)" style="shape=table;startSize=35;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-273" value="Adreska turi- &#xa;s01address_type(static)" style="shape=table;startSize=35;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="350" width="180" height="95" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-274" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-273">
@@ -2866,7 +2866,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-741" value="Buyurtmachi xarajatlari &#xa;o`zlashtirilishi sanalar buyicha &#xa;ma`lumotlar– a01customer_costs_price" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="2770" y="50" width="240" height="200" as="geometry" />
+          <mxGeometry x="2790" y="50" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WGNJ-GQ4mmRqJvjY9kCj-742" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WGNJ-GQ4mmRqJvjY9kCj-741">
           <mxGeometry y="50" width="240" height="30" as="geometry" />
