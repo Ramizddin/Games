@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T11:07:36.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Wa4ZAxNV0R_n5rnSoFUt" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T11:26:50.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Yv3G2fOT2zQY8YHRyjx7" version="20.3.7" type="github">
   <diagram id="PE4BZ3LlGK71BuJlfuw2" name="Страница 1">
     <mxGraphModel dx="1662" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
             <mxRectangle width="253" height="164" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSpcGYR72HFnqHh0-f2Z-16" value="1.Fani to`liq kirtish.&lt;br&gt;2.Talabalar yoqlama qilish" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="aSpcGYR72HFnqHh0-f2Z-14">
+        <mxCell id="aSpcGYR72HFnqHh0-f2Z-16" value="1.Fani to`liq kirtish.&lt;br&gt;2.Talabalar yoqlama qilish&lt;br&gt;3.Baholash&lt;br&gt;4.Imtxonlarni shakilantrish" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="aSpcGYR72HFnqHh0-f2Z-14">
           <mxGeometry x="253" width="254" height="164" as="geometry">
             <mxRectangle width="254" height="164" as="alternateBounds" />
           </mxGeometry>
